@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="C1_night">#C2C2C2</color>
+    <color name="C2_night">#EC6D56</color>
+    <color name="C3_night">#EC6D56</color>
+    <color name="C4_night">#919191</color>
+    <color name="C5_night">#888888</color>
+    <color name="C6_night">#181818</color>
+    <color name="C7_night">#222222</color>
+    <color name="C9_night">#352626</color>
+    <color name="C10_night">#1F312B</color>
+    <color name="C11_night">#222222</color>
+    <color name="C12_night">#282828</color>
+    <color name="C13_night">#666666</color>
+    <color name="C14_night">#333333</color>
+
+    <color name="BC1_night">#181818</color>
+    <color name="BC2_night">#222222</color>
+</resources>

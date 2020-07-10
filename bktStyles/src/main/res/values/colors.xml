@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="C1">#333333</color>
+    <color name="C2">#EC6D56</color>
+    <color name="C3">#EC6D56</color>
+    <color name="C4">#919191</color>
+    <color name="C5">#BBBBBB</color>
+    <!--线的颜色-->
+    <color name="C6">#F2F2F2</color>
+    <color name="C7">#FFFFFF</color>
+    <color name="C9">#F9EBEB</color>
+    <color name="C10">#E3F6F0</color>
+    <color name="C11">#EC6D56</color>
+    <color name="C12">#FFFFFF</color>
+    <color name="C13">#FFFFFF</color>
+    <color name="C14">#F7C4BB</color>
+    <!--背景色-->
+    <color name="BC1">#F2F2F2</color>
+    <color name="BC2">#FFFFFF</color>
+</resources>
