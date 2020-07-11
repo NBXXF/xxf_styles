@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary_night">#1d1f2e</color>
+    <!-- statubar背景色  -->
+    <color name="colorPrimaryDark_night">#FF222222</color>
+    <color name="colorAccent_night">#EC6D56</color>
+</resources>

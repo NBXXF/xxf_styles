@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e07241</color>
+    <!-- statubar背景色  -->
+    <color name="colorPrimaryDark">#FFFFFFFF</color>
+    <color name="colorAccent">#EC6D56</color>
+</resources>

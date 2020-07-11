@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+  注意！！！！！
+  样式声明 一般不得包含padding,margin,属于业务部分
+  -->
+    <!--  TextView去除默认内边距
+     -->
+    <style name="TextView_NoPaddingStyle" parent="@style/Widget.AppCompat.TextView">
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+</resources>

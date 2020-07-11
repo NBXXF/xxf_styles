@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context=".MainActivity">
+    android:orientation="vertical">
 
     <Button
-        android:id="@+id/btn_colors"
-        android:layout_width="wrap_content"
+        style="@style/Button_BaseStyle"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="color >" />
+        android:text="button [normal]" />
 
     <Button
-        android:id="@+id/btn_buttons"
-        android:layout_width="wrap_content"
+        style="@style/Button_BaseStyle"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="button >" />
+        android:enabled="false"
+        android:text="button [enabled false]" />
+
     <Button
-        android:id="@+id/btn_edits"
+        style="@style/Button_NoPaddingStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="EditText >" />
+        android:text="button [NoPadding]" />
 </LinearLayout>

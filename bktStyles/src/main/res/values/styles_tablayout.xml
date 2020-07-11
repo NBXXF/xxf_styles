@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      注意！！！！！
+      样式声明 一般不得包含padding,margin,属于业务部分
+      -->
+    <!--  适合android自带的tabLayout text样式-->
+    <style name="TabLayout_Android_TabTextAppearanceStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TabLayout_Android_TabTextAppearanceStyle_14sp">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!--  适合android自带的tabLayout  c4-c2
+     SkinMaterialTabLayout 不会处理背景夜间模式
+     -->
+    <style name="TabLayout_Android_BaseStyle" parent="@style/Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/C2</item>
+        <item name="tabIndicatorHeight">2dp</item>
+        <item name="tabSelectedTextColor">@color/C2</item>
+        <item name="tabTextColor">@color/C4</item>
+        <item name="tabRippleColor">@android:color/transparent</item>
+        <item name="tabTextAppearance">@style/TabLayout_Android_TabTextAppearanceStyle</item>
+        <item name="tabIndicatorFullWidth">false</item>
+    </style>
+
+    <!--  适合android自带的tabLayout 没有指示器
+     SkinMaterialTabLayout 不会处理背景夜间模式
+    -->
+    <style name="TabLayout_Android_NO_Indicator" parent="TabLayout_Android_BaseStyle">
+        <item name="tabIndicatorHeight">0dp</item>
+    </style>
+
+
+    <!--
+  基于 flycoTablayout
+ https://github.com/H07000223/FlycoTabLayout/blob/master/README_CN.md
+  -->
+    <style name="TabLayout_Flyco_SegmentStyle">
+        <item name="tabBackground">@android:color/transparent</item>
+        <item name="tl_bar_color">@android:color/transparent</item>
+        <item name="tl_indicator_color">@color/C2</item>
+        <item name="tl_indicator_corner_radius">2dp</item>
+        <item name="tl_tab_padding">10dp</item>
+        <item name="tl_indicator_anim_enable">false</item>
+        <item name="tl_indicator_bounce_enable">false</item>
+
+        <item name="tl_textsize">14sp</item>
+        <item name="tl_textSelectColor">@android:color/white</item>
+        <item name="tl_textUnselectColor">@color/C4</item>
+        <item name="tl_textBold">BOTH</item>
+
+        <!-- divider -->
+        <item name="tl_divider_color">@color/C4</item>
+        <item name="tl_divider_width">1dp</item>
+
+        <item name="tl_bar_stroke_color">@color/C4</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  app主题-->
+    <style name="AppTheme_BaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- 字体 -->
+        <item name="android:fontFamily">@font/font_din</item>
+        <item name="fontFamily">@font/font_din</item>
+
+        <!-- switch edittext -->
+        <item name="colorControlNormal">@color/C5</item>
+        <item name="colorControlActivated">@color/C2</item>
+
+        <!-- button着色-->
+        <item name="android:colorButtonNormal">@color/C2</item>
+        <item name="android:windowBackground">@color/BC2</item>
+        <item name="android:spinnerItemStyle">@android:style/Widget.TextView.SpinnerItem</item>
+        <item name="android:windowAnimationStyle">@style/Activity_Animation_BaseStyle</item>
+
+        <!-- 小组件 -->
+        <item name="editTextStyle">@style/EditText_BaseStyle</item>
+        <item name="android:textViewStyle">@style/TextView_NoPaddingStyle</item>
+        <item name="buttonStyle">@style/Button_BaseStyle</item>
+        <item name="tabStyle">@style/TabLayout_Android_BaseStyle</item>
+    </style>
+
+    <!--  隐藏actionBar-->
+    <style name="AppTheme_NO_Title_ActionBar" parent="AppTheme_BaseTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
