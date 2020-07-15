@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/C13_night" android:state_enabled="false" />
+    <item android:color="@color/C13_night" android:state_checkable="false" />
+    <item android:color="@android:color/white" />
+</selector>
