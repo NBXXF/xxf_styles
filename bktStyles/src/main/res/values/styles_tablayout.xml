@@ -35,6 +35,13 @@
         <item name="tabIndicatorHeight">0dp</item>
     </style>
 
+    <!-- TabLayout来模拟单选
+     选中c1 未选中c4-->
+    <style name="TabLayout_Android_RadioGroup" parent="TabLayout_Android_NO_Indicator">
+        <item name="tabSelectedTextColor">@color/C1</item>
+        <item name="tabTextColor">@color/C4</item>
+    </style>
+
 
     <!--
   基于 flycoTablayout
