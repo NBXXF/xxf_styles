@@ -131,8 +131,12 @@ public class SkinCompatResources {
              */
             ColorStateList colorStateList = null;
             if (!isDefaultSkin) {
-                int targetResId = getTargetResId(context, resId);
-                colorStateList = SkinCompatUserThemeManager.get().getColorStateList(targetResId);
+                try {
+                    int targetResId = getTargetResId(context, resId);
+                    colorStateList = SkinCompatUserThemeManager.get().getColorStateList(targetResId);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
             }
             if (colorStateList == null) {
                 colorStateList = SkinCompatUserThemeManager.get().getColorStateList(resId);
@@ -191,8 +195,12 @@ public class SkinCompatResources {
              */
             ColorStateList colorStateList = null;
             if (!isDefaultSkin) {
-                int targetResId = getTargetResId(context, resId);
-                colorStateList = SkinCompatUserThemeManager.get().getColorStateList(targetResId);
+                try {
+                    int targetResId = getTargetResId(context, resId);
+                    colorStateList = SkinCompatUserThemeManager.get().getColorStateList(targetResId);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
             }
             if (colorStateList == null) {
                 colorStateList = SkinCompatUserThemeManager.get().getColorStateList(resId);
@@ -207,8 +215,12 @@ public class SkinCompatResources {
              */
             Drawable drawable = null;
             if (!isDefaultSkin) {
-                int targetResId = getTargetResId(context, resId);
-                drawable = SkinCompatUserThemeManager.get().getDrawable(targetResId);
+                try {
+                    int targetResId = getTargetResId(context, resId);
+                    drawable = SkinCompatUserThemeManager.get().getDrawable(targetResId);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
             }
             if (drawable == null) {
                 drawable = SkinCompatUserThemeManager.get().getDrawable(resId);
