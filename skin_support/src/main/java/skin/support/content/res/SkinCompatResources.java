@@ -133,7 +133,8 @@ public class SkinCompatResources {
             if (!isDefaultSkin) {
                 int targetResId = getTargetResId(context, resId);
                 colorStateList = SkinCompatUserThemeManager.get().getColorStateList(targetResId);
-            } else {
+            }
+            if (colorStateList == null) {
                 colorStateList = SkinCompatUserThemeManager.get().getColorStateList(resId);
             }
             if (colorStateList != null) {
@@ -185,13 +186,33 @@ public class SkinCompatResources {
 
     private Drawable getSkinDrawable(Context context, int resId) {
         if (!SkinCompatUserThemeManager.get().isColorEmpty()) {
-            ColorStateList colorStateList = SkinCompatUserThemeManager.get().getColorStateList(resId);
+            /**
+             * make by youxuan  修复多主题图片问题
+             */
+            ColorStateList colorStateList = null;
+            if (!isDefaultSkin) {
+                int targetResId = getTargetResId(context, resId);
+                colorStateList = SkinCompatUserThemeManager.get().getColorStateList(targetResId);
+            }
+            if (colorStateList == null) {
+                colorStateList = SkinCompatUserThemeManager.get().getColorStateList(resId);
+            }
             if (colorStateList != null) {
                 return new ColorDrawable(colorStateList.getDefaultColor());
             }
         }
         if (!SkinCompatUserThemeManager.get().isDrawableEmpty()) {
-            Drawable drawable = SkinCompatUserThemeManager.get().getDrawable(resId);
+            /**
+             * make by youxuan  修复多主题图片问题
+             */
+            Drawable drawable = null;
+            if (!isDefaultSkin) {
+                int targetResId = getTargetResId(context, resId);
+                drawable = SkinCompatUserThemeManager.get().getDrawable(targetResId);
+            }
+            if (drawable == null) {
+                drawable = SkinCompatUserThemeManager.get().getDrawable(resId);
+            }
             if (drawable != null) {
                 return drawable;
             }
