@@ -1,19 +1,351 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="C1_night">#C2C2C2</color>
+    <color name="C1_alpha_5_night">#0DC2C2C2</color>
+    <color name="C1_alpha_10_night">#1AC2C2C2</color>
+    <color name="C1_alpha_15_night">#26C2C2C2</color>
+    <color name="C1_alpha_20_night">#33C2C2C2</color>
+    <color name="C1_alpha_25_night">#40C2C2C2</color>
+    <color name="C1_alpha_30_night">#4DC2C2C2</color>
+    <color name="C1_alpha_35_night">#59C2C2C2</color>
+    <color name="C1_alpha_40_night">#66C2C2C2</color>
+    <color name="C1_alpha_45_night">#73C2C2C2</color>
+    <color name="C1_alpha_50_night">#80C2C2C2</color>
+    <color name="C1_alpha_55_night">#8CC2C2C2</color>
+    <color name="C1_alpha_60_night">#99C2C2C2</color>
+    <color name="C1_alpha_65_night">#A6C2C2C2</color>
+    <color name="C1_alpha_70_night">#B3C2C2C2</color>
+    <color name="C1_alpha_75_night">#BFC2C2C2</color>
+    <color name="C1_alpha_80_night">#CCC2C2C2</color>
+    <color name="C1_alpha_85_night">#D9C2C2C2</color>
+    <color name="C1_alpha_90_night">#E6C2C2C2</color>
+    <color name="C1_alpha_95_night">#F2C2C2C2</color>
+
+
+
+
     <color name="C2_night">#EC6D56</color>
+    <color name="C2_alpha_5_night">#0DEC6D56</color>
+    <color name="C2_alpha_10_night">#1AEC6D56</color>
+    <color name="C2_alpha_15_night">#26EC6D56</color>
+    <color name="C2_alpha_20_night">#33EC6D56</color>
+    <color name="C2_alpha_25_night">#40EC6D56</color>
+    <color name="C2_alpha_30_night">#4DEC6D56</color>
+    <color name="C2_alpha_35_night">#59EC6D56</color>
+    <color name="C2_alpha_40_night">#66EC6D56</color>
+    <color name="C2_alpha_45_night">#73EC6D56</color>
+    <color name="C2_alpha_50_night">#80EC6D56</color>
+    <color name="C2_alpha_55_night">#8CEC6D56</color>
+    <color name="C2_alpha_60_night">#99EC6D56</color>
+    <color name="C2_alpha_65_night">#A6EC6D56</color>
+    <color name="C2_alpha_70_night">#B3EC6D56</color>
+    <color name="C2_alpha_75_night">#BFEC6D56</color>
+    <color name="C2_alpha_80_night">#CCEC6D56</color>
+    <color name="C2_alpha_85_night">#D9EC6D56</color>
+    <color name="C2_alpha_90_night">#E6EC6D56</color>
+    <color name="C2_alpha_95_night">#F2EC6D56</color>
+
+
+
+
     <color name="C3_night">#EC6D56</color>
+    <color name="C3_alpha_5_night">#0DEC6D56</color>
+    <color name="C3_alpha_10_night">#1AEC6D56</color>
+    <color name="C3_alpha_15_night">#26EC6D56</color>
+    <color name="C3_alpha_20_night">#33EC6D56</color>
+    <color name="C3_alpha_25_night">#40EC6D56</color>
+    <color name="C3_alpha_30_night">#4DEC6D56</color>
+    <color name="C3_alpha_35_night">#59EC6D56</color>
+    <color name="C3_alpha_40_night">#66EC6D56</color>
+    <color name="C3_alpha_45_night">#73EC6D56</color>
+    <color name="C3_alpha_50_night">#80EC6D56</color>
+    <color name="C3_alpha_55_night">#8CEC6D56</color>
+    <color name="C3_alpha_60_night">#99EC6D56</color>
+    <color name="C3_alpha_65_night">#A6EC6D56</color>
+    <color name="C3_alpha_70_night">#B3EC6D56</color>
+    <color name="C3_alpha_75_night">#BFEC6D56</color>
+    <color name="C3_alpha_80_night">#CCEC6D56</color>
+    <color name="C3_alpha_85_night">#D9EC6D56</color>
+    <color name="C3_alpha_90_night">#E6EC6D56</color>
+    <color name="C3_alpha_95_night">#F2EC6D56</color>
+
+
     <color name="C4_night">#919191</color>
+    <color name="C4_alpha_5_night">#0D919191</color>
+    <color name="C4_alpha_10_night">#1A919191</color>
+    <color name="C4_alpha_15_night">#26919191</color>
+    <color name="C4_alpha_20_night">#33919191</color>
+    <color name="C4_alpha_25_night">#40919191</color>
+    <color name="C4_alpha_30_night">#4D919191</color>
+    <color name="C4_alpha_35_night">#59919191</color>
+    <color name="C4_alpha_40_night">#66919191</color>
+    <color name="C4_alpha_45_night">#73919191</color>
+    <color name="C4_alpha_50_night">#80919191</color>
+    <color name="C4_alpha_55_night">#8C919191</color>
+    <color name="C4_alpha_60_night">#99919191</color>
+    <color name="C4_alpha_65_night">#A6919191</color>
+    <color name="C4_alpha_70_night">#B3919191</color>
+    <color name="C4_alpha_75_night">#BF919191</color>
+    <color name="C4_alpha_80_night">#CC919191</color>
+    <color name="C4_alpha_85_night">#D9919191</color>
+    <color name="C4_alpha_90_night">#E6919191</color>
+    <color name="C4_alpha_95_night">#F2919191</color>
+
+
+
+
     <color name="C5_night">#888888</color>
+    <color name="C5_alpha_5_night">#0D888888</color>
+    <color name="C5_alpha_10_night">#1A888888</color>
+    <color name="C5_alpha_15_night">#26888888</color>
+    <color name="C5_alpha_20_night">#33888888</color>
+    <color name="C5_alpha_25_night">#40888888</color>
+    <color name="C5_alpha_30_night">#4D888888</color>
+    <color name="C5_alpha_35_night">#59888888</color>
+    <color name="C5_alpha_40_night">#66888888</color>
+    <color name="C5_alpha_45_night">#73888888</color>
+    <color name="C5_alpha_50_night">#80888888</color>
+    <color name="C5_alpha_55_night">#8C888888</color>
+    <color name="C5_alpha_60_night">#99888888</color>
+    <color name="C5_alpha_65_night">#A6888888</color>
+    <color name="C5_alpha_70_night">#B3888888</color>
+    <color name="C5_alpha_75_night">#BF888888</color>
+    <color name="C5_alpha_80_night">#CC888888</color>
+    <color name="C5_alpha_85_night">#D9888888</color>
+    <color name="C5_alpha_90_night">#E6888888</color>
+    <color name="C5_alpha_95_night">#F2888888</color>
+
+
+
+
     <color name="C6_night">#181818</color>
+    <color name="C6_alpha_5_night">#0D181818</color>
+    <color name="C6_alpha_10_night">#1A181818</color>
+    <color name="C6_alpha_15_night">#26181818</color>
+    <color name="C6_alpha_20_night">#33181818</color>
+    <color name="C6_alpha_25_night">#40181818</color>
+    <color name="C6_alpha_30_night">#4D181818</color>
+    <color name="C6_alpha_35_night">#59181818</color>
+    <color name="C6_alpha_40_night">#66181818</color>
+    <color name="C6_alpha_45_night">#73181818</color>
+    <color name="C6_alpha_50_night">#80181818</color>
+    <color name="C6_alpha_55_night">#8C181818</color>
+    <color name="C6_alpha_60_night">#99181818</color>
+    <color name="C6_alpha_65_night">#A6181818</color>
+    <color name="C6_alpha_70_night">#B3181818</color>
+    <color name="C6_alpha_75_night">#BF181818</color>
+    <color name="C6_alpha_80_night">#CC181818</color>
+    <color name="C6_alpha_85_night">#D9181818</color>
+    <color name="C6_alpha_90_night">#E6181818</color>
+    <color name="C6_alpha_95_night">#F2181818</color>
+
+
     <color name="C7_night">#222222</color>
+    <color name="C7_alpha_5_night">#0D222222</color>
+    <color name="C7_alpha_10_night">#1A222222</color>
+    <color name="C7_alpha_15_night">#26222222</color>
+    <color name="C7_alpha_20_night">#33222222</color>
+    <color name="C7_alpha_25_night">#40222222</color>
+    <color name="C7_alpha_30_night">#4D222222</color>
+    <color name="C7_alpha_35_night">#59222222</color>
+    <color name="C7_alpha_40_night">#66222222</color>
+    <color name="C7_alpha_45_night">#73222222</color>
+    <color name="C7_alpha_50_night">#80222222</color>
+    <color name="C7_alpha_55_night">#8C222222</color>
+    <color name="C7_alpha_60_night">#99222222</color>
+    <color name="C7_alpha_65_night">#A6222222</color>
+    <color name="C7_alpha_70_night">#B3222222</color>
+    <color name="C7_alpha_75_night">#BF222222</color>
+    <color name="C7_alpha_80_night">#CC222222</color>
+    <color name="C7_alpha_85_night">#D9222222</color>
+    <color name="C7_alpha_90_night">#E6222222</color>
+    <color name="C7_alpha_95_night">#F2222222</color>
+
+
+
+
     <color name="C9_night">#352626</color>
+    <color name="C9_alpha_5_night">#0D352626</color>
+    <color name="C9_alpha_10_night">#1A352626</color>
+    <color name="C9_alpha_15_night">#26352626</color>
+    <color name="C9_alpha_20_night">#33352626</color>
+    <color name="C9_alpha_25_night">#40352626</color>
+    <color name="C9_alpha_30_night">#4D352626</color>
+    <color name="C9_alpha_35_night">#59352626</color>
+    <color name="C9_alpha_40_night">#66352626</color>
+    <color name="C9_alpha_45_night">#73352626</color>
+    <color name="C9_alpha_50_night">#80352626</color>
+    <color name="C9_alpha_55_night">#8C352626</color>
+    <color name="C9_alpha_60_night">#99352626</color>
+    <color name="C9_alpha_65_night">#A6352626</color>
+    <color name="C9_alpha_70_night">#B3352626</color>
+    <color name="C9_alpha_75_night">#BF352626</color>
+    <color name="C9_alpha_80_night">#CC352626</color>
+    <color name="C9_alpha_85_night">#D9352626</color>
+    <color name="C9_alpha_90_night">#E6352626</color>
+    <color name="C9_alpha_95_night">#F2352626</color>
+
+
+
+
     <color name="C10_night">#1F312B</color>
+    <color name="C10_alpha_5_night">#0D1F312B</color>
+    <color name="C10_alpha_10_night">#1A1F312B</color>
+    <color name="C10_alpha_15_night">#261F312B</color>
+    <color name="C10_alpha_20_night">#331F312B</color>
+    <color name="C10_alpha_25_night">#401F312B</color>
+    <color name="C10_alpha_30_night">#4D1F312B</color>
+    <color name="C10_alpha_35_night">#591F312B</color>
+    <color name="C10_alpha_40_night">#661F312B</color>
+    <color name="C10_alpha_45_night">#731F312B</color>
+    <color name="C10_alpha_50_night">#801F312B</color>
+    <color name="C10_alpha_55_night">#8C1F312B</color>
+    <color name="C10_alpha_60_night">#991F312B</color>
+    <color name="C10_alpha_65_night">#A61F312B</color>
+    <color name="C10_alpha_70_night">#B31F312B</color>
+    <color name="C10_alpha_75_night">#BF1F312B</color>
+    <color name="C10_alpha_80_night">#CC1F312B</color>
+    <color name="C10_alpha_85_night">#D91F312B</color>
+    <color name="C10_alpha_90_night">#E61F312B</color>
+    <color name="C10_alpha_95_night">#F21F312B</color>
+
+
+
     <color name="C11_night">#222222</color>
+    <color name="C11_alpha_5_night">#0D222222</color>
+    <color name="C11_alpha_10_night">#1A222222</color>
+    <color name="C11_alpha_15_night">#26222222</color>
+    <color name="C11_alpha_20_night">#33222222</color>
+    <color name="C11_alpha_25_night">#40222222</color>
+    <color name="C11_alpha_30_night">#4D222222</color>
+    <color name="C11_alpha_35_night">#59222222</color>
+    <color name="C11_alpha_40_night">#66222222</color>
+    <color name="C11_alpha_45_night">#73222222</color>
+    <color name="C11_alpha_50_night">#80222222</color>
+    <color name="C11_alpha_55_night">#8C222222</color>
+    <color name="C11_alpha_60_night">#99222222</color>
+    <color name="C11_alpha_65_night">#A6222222</color>
+    <color name="C11_alpha_70_night">#B3222222</color>
+    <color name="C11_alpha_75_night">#BF222222</color>
+    <color name="C11_alpha_80_night">#CC222222</color>
+    <color name="C11_alpha_85_night">#D9222222</color>
+    <color name="C11_alpha_90_night">#E6222222</color>
+    <color name="C11_alpha_95_night">#F2222222</color>
+
+
+
+
     <color name="C12_night">#282828</color>
+    <color name="C12_alpha_5_night">#0D282828</color>
+    <color name="C12_alpha_10_night">#1A282828</color>
+    <color name="C12_alpha_15_night">#26282828</color>
+    <color name="C12_alpha_20_night">#33282828</color>
+    <color name="C12_alpha_25_night">#40282828</color>
+    <color name="C12_alpha_30_night">#4D282828</color>
+    <color name="C12_alpha_35_night">#59282828</color>
+    <color name="C12_alpha_40_night">#66282828</color>
+    <color name="C12_alpha_45_night">#73282828</color>
+    <color name="C12_alpha_50_night">#80282828</color>
+    <color name="C12_alpha_55_night">#8C282828</color>
+    <color name="C12_alpha_60_night">#99282828</color>
+    <color name="C12_alpha_65_night">#A6282828</color>
+    <color name="C12_alpha_70_night">#B3282828</color>
+    <color name="C12_alpha_75_night">#BF282828</color>
+    <color name="C12_alpha_80_night">#CC282828</color>
+    <color name="C12_alpha_85_night">#D9282828</color>
+    <color name="C12_alpha_90_night">#E6282828</color>
+    <color name="C12_alpha_95_night">#F2282828</color>
+
+
+
+
     <color name="C13_night">#666666</color>
+    <color name="C13_alpha_5_night">#0D666666</color>
+    <color name="C13_alpha_10_night">#1A666666</color>
+    <color name="C13_alpha_15_night">#26666666</color>
+    <color name="C13_alpha_20_night">#33666666</color>
+    <color name="C13_alpha_25_night">#40666666</color>
+    <color name="C13_alpha_30_night">#4D666666</color>
+    <color name="C13_alpha_35_night">#59666666</color>
+    <color name="C13_alpha_40_night">#66666666</color>
+    <color name="C13_alpha_45_night">#73666666</color>
+    <color name="C13_alpha_50_night">#80666666</color>
+    <color name="C13_alpha_55_night">#8C666666</color>
+    <color name="C13_alpha_60_night">#99666666</color>
+    <color name="C13_alpha_65_night">#A6666666</color>
+    <color name="C13_alpha_70_night">#B3666666</color>
+    <color name="C13_alpha_75_night">#BF666666</color>
+    <color name="C13_alpha_80_night">#CC666666</color>
+    <color name="C13_alpha_85_night">#D9666666</color>
+    <color name="C13_alpha_90_night">#E6666666</color>
+    <color name="C13_alpha_95_night">#F2666666</color>
+
+
+
     <color name="C14_night">#333333</color>
+    <color name="C14_alpha_5_night">#0D333333</color>
+    <color name="C14_alpha_10_night">#1A333333</color>
+    <color name="C14_alpha_15_night">#26333333</color>
+    <color name="C14_alpha_20_night">#33333333</color>
+    <color name="C14_alpha_25_night">#40333333</color>
+    <color name="C14_alpha_30_night">#4D333333</color>
+    <color name="C14_alpha_35_night">#59333333</color>
+    <color name="C14_alpha_40_night">#66333333</color>
+    <color name="C14_alpha_45_night">#73333333</color>
+    <color name="C14_alpha_50_night">#80333333</color>
+    <color name="C14_alpha_55_night">#8C333333</color>
+    <color name="C14_alpha_60_night">#99333333</color>
+    <color name="C14_alpha_65_night">#A6333333</color>
+    <color name="C14_alpha_70_night">#B3333333</color>
+    <color name="C14_alpha_75_night">#BF333333</color>
+    <color name="C14_alpha_80_night">#CC333333</color>
+    <color name="C14_alpha_85_night">#D9333333</color>
+    <color name="C14_alpha_90_night">#E6333333</color>
+    <color name="C14_alpha_95_night">#F2333333</color>
+
+
 
     <color name="BC1_night">#181818</color>
+    <color name="BC1_alpha_5_night">#0D181818</color>
+    <color name="BC1_alpha_10_night">#1A181818</color>
+    <color name="BC1_alpha_15_night">#26181818</color>
+    <color name="BC1_alpha_20_night">#33181818</color>
+    <color name="BC1_alpha_25_night">#40181818</color>
+    <color name="BC1_alpha_30_night">#4D181818</color>
+    <color name="BC1_alpha_35_night">#59181818</color>
+    <color name="BC1_alpha_40_night">#66181818</color>
+    <color name="BC1_alpha_45_night">#73181818</color>
+    <color name="BC1_alpha_50_night">#80181818</color>
+    <color name="BC1_alpha_55_night">#8C181818</color>
+    <color name="BC1_alpha_60_night">#99181818</color>
+    <color name="BC1_alpha_65_night">#A6181818</color>
+    <color name="BC1_alpha_70_night">#B3181818</color>
+    <color name="BC1_alpha_75_night">#BF181818</color>
+    <color name="BC1_alpha_80_night">#CC181818</color>
+    <color name="BC1_alpha_85_night">#D9181818</color>
+    <color name="BC1_alpha_90_night">#E6181818</color>
+    <color name="BC1_alpha_95_night">#F2181818</color>
+
+
+
     <color name="BC2_night">#222222</color>
+    <color name="BC2_alpha_5_night">#0D222222</color>
+    <color name="BC2_alpha_10_night">#1A222222</color>
+    <color name="BC2_alpha_15_night">#26222222</color>
+    <color name="BC2_alpha_20_night">#33222222</color>
+    <color name="BC2_alpha_25_night">#40222222</color>
+    <color name="BC2_alpha_30_night">#4D222222</color>
+    <color name="BC2_alpha_35_night">#59222222</color>
+    <color name="BC2_alpha_40_night">#66222222</color>
+    <color name="BC2_alpha_45_night">#73222222</color>
+    <color name="BC2_alpha_50_night">#80222222</color>
+    <color name="BC2_alpha_55_night">#8C222222</color>
+    <color name="BC2_alpha_60_night">#99222222</color>
+    <color name="BC2_alpha_65_night">#A6222222</color>
+    <color name="BC2_alpha_70_night">#B3222222</color>
+    <color name="BC2_alpha_75_night">#BF222222</color>
+    <color name="BC2_alpha_80_night">#CC222222</color>
+    <color name="BC2_alpha_85_night">#D9222222</color>
+    <color name="BC2_alpha_90_night">#E6222222</color>
+    <color name="BC2_alpha_95_night">#F2222222</color>
 </resources>

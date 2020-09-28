@@ -33,7 +33,11 @@
             android:layout_height="wrap_content"
             android:text="C2"
             android:textColor="@color/C2" />
-
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="C2"
+            android:textColor="@color/C2_alpha_50" />
         <TextView
             android:layout_width="80dp"
             android:layout_height="wrap_content"

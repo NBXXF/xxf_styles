@@ -1,20 +1,349 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="C1">#333333</color>
+    <color name="C1_alpha_5">#0D333333</color>
+    <color name="C1_alpha_10">#1A333333</color>
+    <color name="C1_alpha_15">#26333333</color>
+    <color name="C1_alpha_20">#33333333</color>
+    <color name="C1_alpha_25">#40333333</color>
+    <color name="C1_alpha_30">#4D333333</color>
+    <color name="C1_alpha_35">#59333333</color>
+    <color name="C1_alpha_40">#66333333</color>
+    <color name="C1_alpha_45">#73333333</color>
+    <color name="C1_alpha_50">#80333333</color>
+    <color name="C1_alpha_55">#8C333333</color>
+    <color name="C1_alpha_60">#99333333</color>
+    <color name="C1_alpha_65">#A6333333</color>
+    <color name="C1_alpha_70">#B3333333</color>
+    <color name="C1_alpha_75">#BF333333</color>
+    <color name="C1_alpha_80">#CC333333</color>
+    <color name="C1_alpha_85">#D9333333</color>
+    <color name="C1_alpha_90">#E6333333</color>
+    <color name="C1_alpha_95">#F2333333</color>
+
+
+
     <color name="C2">#EC6D56</color>
+    <color name="C2_alpha_5">#0DEC6D56</color>
+    <color name="C2_alpha_10">#1AEC6D56</color>
+    <color name="C2_alpha_15">#26EC6D56</color>
+    <color name="C2_alpha_20">#33EC6D56</color>
+    <color name="C2_alpha_25">#40EC6D56</color>
+    <color name="C2_alpha_30">#4DEC6D56</color>
+    <color name="C2_alpha_35">#59EC6D56</color>
+    <color name="C2_alpha_40">#66EC6D56</color>
+    <color name="C2_alpha_45">#73EC6D56</color>
+    <color name="C2_alpha_50">#80EC6D56</color>
+    <color name="C2_alpha_55">#8CEC6D56</color>
+    <color name="C2_alpha_60">#99EC6D56</color>
+    <color name="C2_alpha_65">#A6EC6D56</color>
+    <color name="C2_alpha_70">#B3EC6D56</color>
+    <color name="C2_alpha_75">#BFEC6D56</color>
+    <color name="C2_alpha_80">#CCEC6D56</color>
+    <color name="C2_alpha_85">#D9EC6D56</color>
+    <color name="C2_alpha_90">#E6EC6D56</color>
+    <color name="C2_alpha_95">#F2EC6D56</color>
+
+
+
     <color name="C3">#EC6D56</color>
+    <color name="C3_alpha_5">#0DEC6D56</color>
+    <color name="C3_alpha_10">#1AEC6D56</color>
+    <color name="C3_alpha_15">#26EC6D56</color>
+    <color name="C3_alpha_20">#33EC6D56</color>
+    <color name="C3_alpha_25">#40EC6D56</color>
+    <color name="C3_alpha_30">#4DEC6D56</color>
+    <color name="C3_alpha_35">#59EC6D56</color>
+    <color name="C3_alpha_40">#66EC6D56</color>
+    <color name="C3_alpha_45">#73EC6D56</color>
+    <color name="C3_alpha_50">#80EC6D56</color>
+    <color name="C3_alpha_55">#8CEC6D56</color>
+    <color name="C3_alpha_60">#99EC6D56</color>
+    <color name="C3_alpha_65">#A6EC6D56</color>
+    <color name="C3_alpha_70">#B3EC6D56</color>
+    <color name="C3_alpha_75">#BFEC6D56</color>
+    <color name="C3_alpha_80">#CCEC6D56</color>
+    <color name="C3_alpha_85">#D9EC6D56</color>
+    <color name="C3_alpha_90">#E6EC6D56</color>
+    <color name="C3_alpha_95">#F2EC6D56</color>
+
+
+
     <color name="C4">#919191</color>
+    <color name="C4_alpha_5">#0D919191</color>
+    <color name="C4_alpha_10">#1A919191</color>
+    <color name="C4_alpha_15">#26919191</color>
+    <color name="C4_alpha_20">#33919191</color>
+    <color name="C4_alpha_25">#40919191</color>
+    <color name="C4_alpha_30">#4D919191</color>
+    <color name="C4_alpha_35">#59919191</color>
+    <color name="C4_alpha_40">#66919191</color>
+    <color name="C4_alpha_45">#73919191</color>
+    <color name="C4_alpha_50">#80919191</color>
+    <color name="C4_alpha_55">#8C919191</color>
+    <color name="C4_alpha_60">#99919191</color>
+    <color name="C4_alpha_65">#A6919191</color>
+    <color name="C4_alpha_70">#B3919191</color>
+    <color name="C4_alpha_75">#BF919191</color>
+    <color name="C4_alpha_80">#CC919191</color>
+    <color name="C4_alpha_85">#D9919191</color>
+    <color name="C4_alpha_90">#E6919191</color>
+    <color name="C4_alpha_95">#F2919191</color>
+
+
+
     <color name="C5">#BBBBBB</color>
+    <color name="C5_alpha_5">#0DBBBBBB</color>
+    <color name="C5_alpha_10">#1ABBBBBB</color>
+    <color name="C5_alpha_15">#26BBBBBB</color>
+    <color name="C5_alpha_20">#33BBBBBB</color>
+    <color name="C5_alpha_25">#40BBBBBB</color>
+    <color name="C5_alpha_30">#4DBBBBBB</color>
+    <color name="C5_alpha_35">#59BBBBBB</color>
+    <color name="C5_alpha_40">#66BBBBBB</color>
+    <color name="C5_alpha_45">#73BBBBBB</color>
+    <color name="C5_alpha_50">#80BBBBBB</color>
+    <color name="C5_alpha_55">#8CBBBBBB</color>
+    <color name="C5_alpha_60">#99BBBBBB</color>
+    <color name="C5_alpha_65">#A6BBBBBB</color>
+    <color name="C5_alpha_70">#B3BBBBBB</color>
+    <color name="C5_alpha_75">#BFBBBBBB</color>
+    <color name="C5_alpha_80">#CCBBBBBB</color>
+    <color name="C5_alpha_85">#D9BBBBBB</color>
+    <color name="C5_alpha_90">#E6BBBBBB</color>
+    <color name="C5_alpha_95">#F2BBBBBB</color>
+
+
+
     <!--线的颜色-->
     <color name="C6">#F2F2F2</color>
+    <color name="C6_alpha_5">#0DF2F2F2</color>
+    <color name="C6_alpha_10">#1AF2F2F2</color>
+    <color name="C6_alpha_15">#26F2F2F2</color>
+    <color name="C6_alpha_20">#33F2F2F2</color>
+    <color name="C6_alpha_25">#40F2F2F2</color>
+    <color name="C6_alpha_30">#4DF2F2F2</color>
+    <color name="C6_alpha_35">#59F2F2F2</color>
+    <color name="C6_alpha_40">#66F2F2F2</color>
+    <color name="C6_alpha_45">#73F2F2F2</color>
+    <color name="C6_alpha_50">#80F2F2F2</color>
+    <color name="C6_alpha_55">#8CF2F2F2</color>
+    <color name="C6_alpha_60">#99F2F2F2</color>
+    <color name="C6_alpha_65">#A6F2F2F2</color>
+    <color name="C6_alpha_70">#B3F2F2F2</color>
+    <color name="C6_alpha_75">#BFF2F2F2</color>
+    <color name="C6_alpha_80">#CCF2F2F2</color>
+    <color name="C6_alpha_85">#D9F2F2F2</color>
+    <color name="C6_alpha_90">#E6F2F2F2</color>
+    <color name="C6_alpha_95">#F2F2F2F2</color>
+
+
+
     <color name="C7">#FFFFFF</color>
+    <color name="C7_alpha_5">#0DFFFFFF</color>
+    <color name="C7_alpha_10">#1AFFFFFF</color>
+    <color name="C7_alpha_15">#26FFFFFF</color>
+    <color name="C7_alpha_20">#33FFFFFF</color>
+    <color name="C7_alpha_25">#40FFFFFF</color>
+    <color name="C7_alpha_30">#4DFFFFFF</color>
+    <color name="C7_alpha_35">#59FFFFFF</color>
+    <color name="C7_alpha_40">#66FFFFFF</color>
+    <color name="C7_alpha_45">#73FFFFFF</color>
+    <color name="C7_alpha_50">#80FFFFFF</color>
+    <color name="C7_alpha_55">#8CFFFFFF</color>
+    <color name="C7_alpha_60">#99FFFFFF</color>
+    <color name="C7_alpha_65">#A6FFFFFF</color>
+    <color name="C7_alpha_70">#B3FFFFFF</color>
+    <color name="C7_alpha_75">#BFFFFFFF</color>
+    <color name="C7_alpha_80">#CCFFFFFF</color>
+    <color name="C7_alpha_85">#D9FFFFFF</color>
+    <color name="C7_alpha_90">#E6FFFFFF</color>
+    <color name="C7_alpha_95">#F2FFFFFF</color>
+
+
+
+
     <color name="C9">#F9EBEB</color>
+    <color name="C9_alpha_5">#0DF9EBEB</color>
+    <color name="C9_alpha_10">#1AF9EBEB</color>
+    <color name="C9_alpha_15">#26F9EBEB</color>
+    <color name="C9_alpha_20">#33F9EBEB</color>
+    <color name="C9_alpha_25">#40F9EBEB</color>
+    <color name="C9_alpha_30">#4DF9EBEB</color>
+    <color name="C9_alpha_35">#59F9EBEB</color>
+    <color name="C9_alpha_40">#66F9EBEB</color>
+    <color name="C9_alpha_45">#73F9EBEB</color>
+    <color name="C9_alpha_50">#80F9EBEB</color>
+    <color name="C9_alpha_55">#8CF9EBEB</color>
+    <color name="C9_alpha_60">#99F9EBEB</color>
+    <color name="C9_alpha_65">#A6F9EBEB</color>
+    <color name="C9_alpha_70">#B3F9EBEB</color>
+    <color name="C9_alpha_75">#BFF9EBEB</color>
+    <color name="C9_alpha_80">#CCF9EBEB</color>
+    <color name="C9_alpha_85">#D9F9EBEB</color>
+    <color name="C9_alpha_90">#E6F9EBEB</color>
+    <color name="C9_alpha_95">#F2F9EBEB</color>
+
+
+
     <color name="C10">#E3F6F0</color>
+    <color name="C10_alpha_5">#0DE3F6F0</color>
+    <color name="C10_alpha_10">#1AE3F6F0</color>
+    <color name="C10_alpha_15">#26E3F6F0</color>
+    <color name="C10_alpha_20">#33E3F6F0</color>
+    <color name="C10_alpha_25">#40E3F6F0</color>
+    <color name="C10_alpha_30">#4DE3F6F0</color>
+    <color name="C10_alpha_35">#59E3F6F0</color>
+    <color name="C10_alpha_40">#66E3F6F0</color>
+    <color name="C10_alpha_45">#73E3F6F0</color>
+    <color name="C10_alpha_50">#80E3F6F0</color>
+    <color name="C10_alpha_55">#8CE3F6F0</color>
+    <color name="C10_alpha_60">#99E3F6F0</color>
+    <color name="C10_alpha_65">#A6E3F6F0</color>
+    <color name="C10_alpha_70">#B3E3F6F0</color>
+    <color name="C10_alpha_75">#BFE3F6F0</color>
+    <color name="C10_alpha_80">#CCE3F6F0</color>
+    <color name="C10_alpha_85">#D9E3F6F0</color>
+    <color name="C10_alpha_90">#E6E3F6F0</color>
+    <color name="C10_alpha_95">#F2E3F6F0</color>
+
+
+
     <color name="C11">#EC6D56</color>
+    <color name="C11_alpha_5">#0DEC6D56</color>
+    <color name="C11_alpha_10">#1AEC6D56</color>
+    <color name="C11_alpha_15">#26EC6D56</color>
+    <color name="C11_alpha_20">#33EC6D56</color>
+    <color name="C11_alpha_25">#40EC6D56</color>
+    <color name="C11_alpha_30">#4DEC6D56</color>
+    <color name="C11_alpha_35">#59EC6D56</color>
+    <color name="C11_alpha_40">#66EC6D56</color>
+    <color name="C11_alpha_45">#73EC6D56</color>
+    <color name="C11_alpha_50">#80EC6D56</color>
+    <color name="C11_alpha_55">#8CEC6D56</color>
+    <color name="C11_alpha_60">#99EC6D56</color>
+    <color name="C11_alpha_65">#A6EC6D56</color>
+    <color name="C11_alpha_70">#B3EC6D56</color>
+    <color name="C11_alpha_75">#BFEC6D56</color>
+    <color name="C11_alpha_80">#CCEC6D56</color>
+    <color name="C11_alpha_85">#D9EC6D56</color>
+    <color name="C11_alpha_90">#E6EC6D56</color>
+    <color name="C11_alpha_95">#F2EC6D56</color>
+
+
+
     <color name="C12">#FFFFFF</color>
+    <color name="C12_alpha_5">#0DFFFFFF</color>
+    <color name="C12_alpha_10">#1AFFFFFF</color>
+    <color name="C12_alpha_15">#26FFFFFF</color>
+    <color name="C12_alpha_20">#33FFFFFF</color>
+    <color name="C12_alpha_25">#40FFFFFF</color>
+    <color name="C12_alpha_30">#4DFFFFFF</color>
+    <color name="C12_alpha_35">#59FFFFFF</color>
+    <color name="C12_alpha_40">#66FFFFFF</color>
+    <color name="C12_alpha_45">#73FFFFFF</color>
+    <color name="C12_alpha_50">#80FFFFFF</color>
+    <color name="C12_alpha_55">#8CFFFFFF</color>
+    <color name="C12_alpha_60">#99FFFFFF</color>
+    <color name="C12_alpha_65">#A6FFFFFF</color>
+    <color name="C12_alpha_70">#B3FFFFFF</color>
+    <color name="C12_alpha_75">#BFFFFFFF</color>
+    <color name="C12_alpha_80">#CCFFFFFF</color>
+    <color name="C12_alpha_85">#D9FFFFFF</color>
+    <color name="C12_alpha_90">#E6FFFFFF</color>
+    <color name="C12_alpha_95">#F2FFFFFF</color>
+
+
+
     <color name="C13">#FFFFFF</color>
+    <color name="C13_alpha_5">#0DFFFFFF</color>
+    <color name="C13_alpha_10">#1AFFFFFF</color>
+    <color name="C13_alpha_15">#26FFFFFF</color>
+    <color name="C13_alpha_20">#33FFFFFF</color>
+    <color name="C13_alpha_25">#40FFFFFF</color>
+    <color name="C13_alpha_30">#4DFFFFFF</color>
+    <color name="C13_alpha_35">#59FFFFFF</color>
+    <color name="C13_alpha_40">#66FFFFFF</color>
+    <color name="C13_alpha_45">#73FFFFFF</color>
+    <color name="C13_alpha_50">#80FFFFFF</color>
+    <color name="C13_alpha_55">#8CFFFFFF</color>
+    <color name="C13_alpha_60">#99FFFFFF</color>
+    <color name="C13_alpha_65">#A6FFFFFF</color>
+    <color name="C13_alpha_70">#B3FFFFFF</color>
+    <color name="C13_alpha_75">#BFFFFFFF</color>
+    <color name="C13_alpha_80">#CCFFFFFF</color>
+    <color name="C13_alpha_85">#D9FFFFFF</color>
+    <color name="C13_alpha_90">#E6FFFFFF</color>
+    <color name="C13_alpha_95">#F2FFFFFF</color>
+
+
+
     <color name="C14">#F7C4BB</color>
+    <color name="C14_alpha_5">#0DF7C4BB</color>
+    <color name="C14_alpha_10">#1AF7C4BB</color>
+    <color name="C14_alpha_15">#26F7C4BB</color>
+    <color name="C14_alpha_20">#33F7C4BB</color>
+    <color name="C14_alpha_25">#40F7C4BB</color>
+    <color name="C14_alpha_30">#4DF7C4BB</color>
+    <color name="C14_alpha_35">#59F7C4BB</color>
+    <color name="C14_alpha_40">#66F7C4BB</color>
+    <color name="C14_alpha_45">#73F7C4BB</color>
+    <color name="C14_alpha_50">#80F7C4BB</color>
+    <color name="C14_alpha_55">#8CF7C4BB</color>
+    <color name="C14_alpha_60">#99F7C4BB</color>
+    <color name="C14_alpha_65">#A6F7C4BB</color>
+    <color name="C14_alpha_70">#B3F7C4BB</color>
+    <color name="C14_alpha_75">#BFF7C4BB</color>
+    <color name="C14_alpha_80">#CCF7C4BB</color>
+    <color name="C14_alpha_85">#D9F7C4BB</color>
+    <color name="C14_alpha_90">#E6F7C4BB</color>
+    <color name="C14_alpha_95">#F2F7C4BB</color>
+
+
+
     <!--背景色-->
     <color name="BC1">#F2F2F2</color>
+    <color name="BC1_alpha_5">#0DF2F2F2</color>
+    <color name="BC1_alpha_10">#1AF2F2F2</color>
+    <color name="BC1_alpha_15">#26F2F2F2</color>
+    <color name="BC1_alpha_20">#33F2F2F2</color>
+    <color name="BC1_alpha_25">#40F2F2F2</color>
+    <color name="BC1_alpha_30">#4DF2F2F2</color>
+    <color name="BC1_alpha_35">#59F2F2F2</color>
+    <color name="BC1_alpha_40">#66F2F2F2</color>
+    <color name="BC1_alpha_45">#73F2F2F2</color>
+    <color name="BC1_alpha_50">#80F2F2F2</color>
+    <color name="BC1_alpha_55">#8CF2F2F2</color>
+    <color name="BC1_alpha_60">#99F2F2F2</color>
+    <color name="BC1_alpha_65">#A6F2F2F2</color>
+    <color name="BC1_alpha_70">#B3F2F2F2</color>
+    <color name="BC1_alpha_75">#BFF2F2F2</color>
+    <color name="BC1_alpha_80">#CCF2F2F2</color>
+    <color name="BC1_alpha_85">#D9F2F2F2</color>
+    <color name="BC1_alpha_90">#E6F2F2F2</color>
+    <color name="BC1_alpha_95">#F2F2F2F2</color>
+
+
+
+
     <color name="BC2">#FFFFFF</color>
+    <color name="BC2_alpha_5">#0DFFFFFF</color>
+    <color name="BC2_alpha_10">#1AFFFFFF</color>
+    <color name="BC2_alpha_15">#26FFFFFF</color>
+    <color name="BC2_alpha_20">#33FFFFFF</color>
+    <color name="BC2_alpha_25">#40FFFFFF</color>
+    <color name="BC2_alpha_30">#4DFFFFFF</color>
+    <color name="BC2_alpha_35">#59FFFFFF</color>
+    <color name="BC2_alpha_40">#66FFFFFF</color>
+    <color name="BC2_alpha_45">#73FFFFFF</color>
+    <color name="BC2_alpha_50">#80FFFFFF</color>
+    <color name="BC2_alpha_55">#8CFFFFFF</color>
+    <color name="BC2_alpha_60">#99FFFFFF</color>
+    <color name="BC2_alpha_65">#A6FFFFFF</color>
+    <color name="BC2_alpha_70">#B3FFFFFF</color>
+    <color name="BC2_alpha_75">#BFFFFFFF</color>
+    <color name="BC2_alpha_80">#CCFFFFFF</color>
+    <color name="BC2_alpha_85">#D9FFFFFF</color>
+    <color name="BC2_alpha_90">#E6FFFFFF</color>
+    <color name="BC2_alpha_95">#F2FFFFFF</color>
 </resources>
