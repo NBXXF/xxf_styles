@@ -7,6 +7,10 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="换个符合规定的方法符合规范的后果辅导辅导和规范的后果负担和规范的后果负担和规范的后果的工会发的规划共和国复合弓花港饭店"/>
     <Button
         android:id="@+id/btn_colors"
         android:layout_width="wrap_content"
